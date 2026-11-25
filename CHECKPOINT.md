@@ -26,8 +26,9 @@ Fortune (16 words, 1 line, plain text):
 - Word count 16 (≤20), 1 line, stdout content == entry.txt content.
 
 ## Repo / kit / bundle (to be filled)
-- Repo: jekglory/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c (public, MIT, created after opening)
-- Commit: (pending)
+- Repo: jekglory/u-clever-harbor-75-fortune-cookie-for-the-liquidated-38fd239c, PUBLIC, MIT (SPDX line), created 2026-11-25T03:07:07Z (after 02:02:56Z opening). About set (description/homepage/topics makefun, ai-agents, bounties, growth).
+- Commit: b5aceed8c24bb5dc2b46a2d6db69a8d427160fde (main, pushed, verified via ls-remote; upstream HEAD matches).
+- Files: main.py, README.md, LICENSE, .makefun/owner.json (wallet 8rCWeWgLhbrjRJnW3sLDfPBVLR481kFnoGVsghPPCJjG), req.json, CHECKPOINT.md.
 - Kit: fresh download from https://make.fun/c/<slug>/kit
 - Bundle: (pending — builder's own bundle is EXPECTED to fail thinking_priced:
   usage rows appear only after this run completes; parent re-bundles with
